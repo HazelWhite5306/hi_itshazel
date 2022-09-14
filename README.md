@@ -1,7 +1,17 @@
-# hi_itshazel
+# Introduction
 
-# Elite 101 PreWork
-hello again
 
-hello
+This is a repository created by *Hazel*
 
+
+## Usage
+
+
+Run this command to execute the application:
+
+
+`python filename.py`
+
+ 
+
+```
